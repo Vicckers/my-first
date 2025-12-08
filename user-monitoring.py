@@ -7,7 +7,7 @@ API_ID = 28314907
 API_HASH = '01bffe95d8af217cf794e66d989c227e'
 PHONE_NUMBER = '+998774490625'
 
-TARGET_USERNAME = 'cezzy123'
+TARGET_USERNAME = 'scalper'
 
 
 async def main():
@@ -48,6 +48,7 @@ async def main():
 if __name__ == '__main__':
 
     asyncio.run(main())
+
 
 
 
